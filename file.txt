@@ -1,2 +1,4 @@
 Hello World
 hi you all, just do git pull to get updated code to your local machines
+git push is easy # main branch edit
+git push is awesome #minor branch edit
